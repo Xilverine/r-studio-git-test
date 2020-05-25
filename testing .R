@@ -1,0 +1,1 @@
+# hello, my name is Shanna and I am here to learn about data science 
